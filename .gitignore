@@ -1,1 +1,4 @@
 __pycache__
+*_product_crawler.py
+*_review_crawler.py
+*_search_crawler.py
